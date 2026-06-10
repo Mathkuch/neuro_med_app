@@ -332,7 +332,7 @@ class _QuestionnairePatientState extends State<QuestionnairePatient> {
                 ),
                 const SizedBox(height: 8),
                 Text(
-                  "Préparation de la consultation de neurologie pédiatrique",
+                  "Consultation de neurologie pédiatrique-version medecin",
                   style: TextStyle(color: blueCHRU, fontSize: 18, fontWeight: FontWeight.bold),
                 ),
               ],
